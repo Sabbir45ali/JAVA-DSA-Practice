@@ -59,4 +59,4 @@ Contributions to this repository are welcome! If you have any suggestions, impro
 ## How to Clone
 To clone this repository to your local machine, use the following command:
 ```bash
-git clone https://github.com/Sabbir45ali/JAVA-DSA.git
+git clone https://github.com/Sabbir45ali/JAVA-DSA-Practice.git
