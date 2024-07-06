@@ -7,7 +7,7 @@ public class Temp_convertor {
         Scanner inp = new Scanner(System.in);
         System.out.print("Enter the temperature which you want to convert to(C/F): ");
         char unit = inp.next().charAt(0);
-        int res = 0;
+        float res = 0;
         if (unit == 'C') {
             System.out.println("Enter the celcuous vale - ");
             int c = inp.nextInt();
