@@ -17,6 +17,6 @@ public class Counting_occurance {
             }
             user_number = user_number/10;
         }
-        System.out.println("Ther is "+ count +" times "+ find_number);
+        System.out.println("There is " + count + " times " + find_number);
     }
 }
