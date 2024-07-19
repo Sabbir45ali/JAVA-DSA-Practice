@@ -1,6 +1,5 @@
 //Write a function that counts the number of bits needed to convert integer A to integer B.
 //Solution : https://youtube.com/watch?v=WVgYaucD1S4
-
 public class Count_Different_Bits_in_Two_Numbers {
   public static int CountFlip(int a, int b) {
     int XorResult = a ^ b;
